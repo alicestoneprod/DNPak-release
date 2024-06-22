@@ -21,7 +21,7 @@
 <h2 align="center" id="howtouse">📚 How to Use</h2>
 <div style="text-align: center;">
     <p>Open the application, then drop:</p>
-    <ul style="list-style-position: inside; text-align: left; display: inline-block;">
+    <ul style="list-style-position: inside; text-align: left; display: inline-block; list-style: none;">
         <li><b>Folders</b> to create <b>.pak</b> files.</li>
         <li><b>.Pak files</b> to extract data.</li>
     </ul>
