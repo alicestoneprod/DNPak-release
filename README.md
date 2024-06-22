@@ -1,3 +1,4 @@
+<div align="center">
 <div style="text-align: center;">
     <img src="/assets/logo.png" width="300">
     <a href="https://github.com/alicestoneprod/DNPak-release"><h1>DNPak</h1></a>
@@ -39,3 +40,4 @@
 </div>
 <hr>
 <div style="text-align: center;"><h4>❤️ Many thanks to <a href="https://vincentzhang96.github.io/DragonNestFileFormats/">Vahr</a> for the documentation about <b>.pak</b> file structure.</h4></div>
+</div>
