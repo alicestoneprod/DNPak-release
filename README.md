@@ -13,7 +13,7 @@
 3. [Contributing](#contributing)
 <h2 align="center" id="install">💻 Install</h2>
 
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
     <div>Just run the setup in the <b><a href="https://github.com/alicestoneprod/DNPak-release/releases">Release</a></b> section and complete the installation process.</div>
     <img src="/assets/install.png">
 </div>
