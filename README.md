@@ -4,13 +4,15 @@
     <a href="https://github.com/alicestoneprod/DNPak-release"><h1>DNPak</h1></a>
     <p><strong>DNPak</strong> is an alternative to existing tools that can extract from <b>.pak</b> files and create <b>.pak files</b> from folders.</p>
 </div>
+<hr>
+</div>
 
 ## Content
 
 1. [Install](#install)
 2. [How to Use](#howtouse)
 3. [Contributing](#contributing)
-
+<hr>
 <h2 align="center" id="install">💻 Install</h2>
 
 <div style="text-align: center;">
@@ -21,7 +23,7 @@
 <h2 align="center" id="howtouse">📚 How to Use</h2>
 <div style="text-align: center;">
     <p>Open the application, then drop:</p>
-    <ul style="list-style-position: inside; text-align: left; display: inline-block; list-style: none;">
+    <ul style="list-style-type: none; text-align: left; display: inline-block;">
         <li><b>Folders</b> to create <b>.pak</b> files.</li>
         <li><b>.Pak files</b> to extract data.</li>
     </ul>
@@ -40,4 +42,3 @@
 </div>
 <hr>
 <div style="text-align: center;"><h4>❤️ Many thanks to <a href="https://vincentzhang96.github.io/DragonNestFileFormats/">Vahr</a> for the documentation about <b>.pak</b> file structure.</h4></div>
-</div>
